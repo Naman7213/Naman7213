@@ -13,3 +13,5 @@ Skills : C++, React, Bootstrap, NPM
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/naman-verma-25a99b1b6/ "Linkedin's Homepage") | [Github](https://github.com/Naman7213 "Github's Homepage")
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: ...
+
+![Naman's github stats](https://github-readme-stats.vercel.app/api?username=Naman7213&show_icons=true&hide_border=true)
