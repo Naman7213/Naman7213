@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋 my name is Naman Verma
+## I'm student at Chitkara University, Punjab currently pursuing B.Tech in Computer Science
+# Tech Entusiast | Student | Technical Writer
 
-<!--
-**Naman7213/Naman7213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills : C++, React, Bootstrap, NPM
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I’m currently working on Deep Learning Models To Do Prediction For Covid19 Through Lungs Scans
+- 🌱 I’m currently learning Full Stack
+- 👯 I’m looking to collaborate on open source projects
+- 🤔 I’m looking for help with Time Managment 😊
+- 💬 Ask me about Operations System, Web Development, Data Structures
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/naman-verma-25a99b1b6/ "Linkedin's Homepage")
+- 
+- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: ...
--->
