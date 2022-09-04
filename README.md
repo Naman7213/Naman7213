@@ -14,4 +14,4 @@ Skills : C++, React, Bootstrap, NPM
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: ...
 
-![Naman's github stats](https://github-readme-stats.vercel.app/api?username=Naman7213&show_icons=true&hide_border=true)
+![Naman's github stats](https://github-readme-stats.vercel.app/api?username=Naman7213&show_icons=true&hide_border=false)
