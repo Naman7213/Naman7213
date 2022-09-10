@@ -15,3 +15,6 @@ Skills : C++, React, Bootstrap, NPM
 - ⚡ Fun fact: ...
 
 ![Naman's github stats](https://github-readme-stats.vercel.app/api?username=Naman7213&show_icons=true&hide_border=false)
+
+
+![Naman Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=Naman7213)
