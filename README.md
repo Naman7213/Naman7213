@@ -9,7 +9,7 @@ Skills : C++, React, Bootstrap, NPM
 - 🌱 I’m currently learning Full Stack
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with Time Managment 😊
-- 💬 Ask me about Operations System, Web Development, Data Structures
+- 💬 Ask me about Operating System, Web Development, Data Structures
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/naman-verma-25a99b1b6/ "Linkedin's Homepage") | [Github](https://github.com/Naman7213 "Github's Homepage")
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: ...
